@@ -1,0 +1,7 @@
+.nav-link:focus, .nav-link:hover {
+    color: var(--bs-nav-link-hover-color);
+    font-weight: 400 !important;
+}
+
+
+
